@@ -1,4 +1,5 @@
-```const centreDeFormation = {
+```
+const centreDeFormation = {
   nom: "Bruxelles Formation",
   adresse: "Rue des Compétences, 42, 1000 Bruxelles",
   formations: [
@@ -108,4 +109,5 @@
       modules: ["SQL", "Data Viz", "Power BI", "Dashboarding"],
     }
   ]
-};```
+};
+```
